@@ -1,4 +1,4 @@
-package com.hzhudev.clap_detection;
+package com.jhuang.clap_detection;
 
 import org.junit.Test;
 
