@@ -1,5 +1,4 @@
-# clap-detection-app
-👏 Meme Review 👏
+# clap-detector
 
-Android App inspired by various other ideas.
-Detects two claps and plays a voice clip Pewdiepie
+Android App
+Detects two claps and plays a voice clip
